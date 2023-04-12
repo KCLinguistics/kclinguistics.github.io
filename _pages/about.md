@@ -10,11 +10,11 @@ redirect_from:
 
 I am a second year postgraduate student at the University of Ghent, Faculty of Psychology and Educational Sciences. I was an exchange student at the Groningen University (2022-2023) as a student in the EMJD Program.
 
-I am most interested in communication dynamics in adverse situations as well as different ecological settings. Other than this, Neurobiology of language is a part of my main research.
+I am most interested in communication dynamics in adverse situations as well as in different relaxed-ecological settings. Other than this, Neurobiology of language is a major area of my main research.
 
 Till this end, I have employed three different approaches.
 
-[1] Compare the different linguistic behaviors of language use in Virtual Reality vs physical-setting in dyadic conversations that of humans.
+[1] Compare the different communicative behaviors of language use in Virtual Reality vs physical-setting in dyadic conversations that of humans.
 
 [2] Identify the causal mechanism of morphosyntax in the underlying problem-solving /communicative strategies.
 
