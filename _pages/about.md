@@ -10,7 +10,8 @@ redirect_from:
 
 I am a first year postgraduate student at the University of Ghent, Faculty of Psychology and Educational Sciences. I did my first semester at the Groningen University (2022-2023) for Neurolinguistics as a student in the EMJD Program in Clinical Linguistics.
 
-I am most interested in communication dynamics in adverse situations as well as in different relaxed-ecological settings. Other than this, the Neurobiology of Language is a major area of my main research.
+I am most interested in communication dynamics in adverse situations as well as in different relaxed-ecological settings. Other than this, I look for Neurobiology of Language in the unproductive nights for the areas in Historical Linguistics, Language Anthropology, and Primate Communications - readings I do not get do for obvious reasons of day-to-day 'clinical' interference!
+
 
 To this end, I have employed three different approaches.
 
