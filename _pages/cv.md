@@ -25,7 +25,7 @@ Work experience
 
 * February 2022 - September 2022: Student Member of Commissione Paritetica
   * University of Verona
-  * Duties included: 1) Solving student concerns from the target academic program and 2) Active participation overlooking the statistics of the faculty for ongoing academic programs.
+  * Duties included: 1) Solving student concerns from the target academic program and 2) Active participation in overlooking the statistics of the faculty for ongoing academic programs.
   * Supervisor: Dr. Serena Dal Maso
 
 
