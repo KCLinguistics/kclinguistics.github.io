@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year postgraduate student at the University of Ghent, Faculty of Psychology and Educational Sciences. I was an exchange student at the Groningen University (2022-2023) for Neurolinguistics as a student in the EMJD Program.
+I am a first year postgraduate student at the University of Ghent, Faculty of Psychology and Educational Sciences. I did my first semester at the Groningen University (2022-2023) for Neurolinguistics as a student in the EMJD Program in Clinical Linguistics.
 
 I am most interested in communication dynamics in adverse situations as well as in different relaxed-ecological settings. Other than this, the Neurobiology of Language is a major area of my main research.
 
