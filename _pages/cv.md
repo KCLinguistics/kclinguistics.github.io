@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* B.A. in Linguistics, The Sanskrit College and University, 2020
 * M.A. in Linguistics, University of Verona, 2023
 * MSc. in Clinical Linguistics (EMCL++), Across Groningen, Ghent and University of Eastern Finland, 2024 (expected)
 
