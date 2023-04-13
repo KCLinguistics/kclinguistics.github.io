@@ -24,7 +24,6 @@ I believe clarifying the detailed language exchanges inside virtual reality and 
 
 Targeting language profiles of adult language learners from bi-/multi-lingual backgrounds, my project ideas explore several linguistic-cognitive areas such as spatial language, humor comprehension, co-operation, and feedback recognition in the context of Virtual Reality.
 
+If you are currently working within the areas of Virtual Reality for Humanities, Spatial Language Cognition, Multimodality, and Punctuation and Grapheme Studies, feel free to contact me about your project ideas at kc[dot]linguistics@gmail[dot]com
 
-
-
-
+<img src="../images/GitHub Frontpage.png">

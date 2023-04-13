@@ -37,11 +37,11 @@ Work experience
   
 Skills
 ======
-* Eye-Link 1000
+* EyeLink 1000 Plus
 * ELAN
-  * PRAAT
+* PRAAT
   
-* PyshoPy, OpenSeasame, Experiment Builder  
+* PsychoPy, OpenSeasame, Experiment Builder  
 * JASP, Jamvoi, and R
 
 
