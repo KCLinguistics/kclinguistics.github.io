@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Linguistics, The Sanskrit College and University, 2020
+* M.A. in Linguistics, University of Verona, 2023
+* MSc. in Clinical Linguistics (EMCL++), Across Groningen, Ghent and University of Eastern Finland, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2022 - March 2023: EMCL++ Program Representative
+  * Erasmus Mundus Student Association
+  * Duties included: 1) Promoting the program, 2) Responding to questions from incoming applicants, and 3) Take part in EMA discussions for progress discussions.
+  * Supervisor: Ruturaj Trivedi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+
+* February 2022 - September 2022: Student Member of Commissione Paritetica
+  * University of Verona
+  * Duties included: 1) Solving student concerns from the target academic program and 2) Active participation overlooking the statistics of the faculty for ongoing academic programs.
+  * Supervisor: Dr. Serena Dal Maso
+
+
+* October 2020 - September 2022: Student Member of Collegio Didattico
+  * University of Verona
+  * Duties included: 1) Student mentoring, hosting tutorial sessions and 2) Active participation in the descision makings of the faculty for ongoing academic and extracurricular projects.
+  * Supervisor: Dr. Chiara Melloni
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Eye-Link 1000
+* ELAN
+  * PRAAT
+  
+* PyshoPy, OpenSeasame, Experiment Builder  
+* JASP, Jamvoi, and R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
