@@ -11,17 +11,12 @@ redirect_from:
 
 Education
 ======
+* B.A. in Linguistics, The Sanskrit College and University, 2020
 * M.A. in Linguistics, University of Verona, 2023
-* MSc. in Clinical Linguistics (EMCL++), Across Groningen, Ghent and University of Eastern Finland, 2024 (expected)
+
 
 Work experience
 ======
-* August 2022 - March 2023: EMCL++ Program Representative
-  * Erasmus Mundus Student Association
-  * Duties included: 1) Promoting the program, 2) Responding to questions from incoming applicants, and 3) Take part in EMA discussions for progress discussions.
-  * Supervisor: Ruturaj Trivedi
-
-
 
 * February 2022 - September 2022: Student Member of Commissione Paritetica
   * University of Verona
@@ -39,8 +34,7 @@ Skills
 * EyeLink 1000 Plus
 * ELAN
 * PRAAT
-  
-* PsychoPy, OpenSeasame, Experiment Builder  
+* PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
 * JASP, Jamvoi, and R
 
 
