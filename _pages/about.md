@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hell there! I am a gradaute student from the University of Verona, Faculty of Culture and Civilisations.
+Hello there! I am a gradaute student from the University of Verona, Faculty of Culture and Civilisations.
 
 I am most interested in communication dynamics in adverse situations as well as in different relaxed-ecological settings. Other than this, I look for Neurobiology of Language in the unproductive nights for the areas in Historical Linguistics, Language Anthropology, and Primate Communications - readings I do not get do for obvious reasons of day-to-day 'clinical' interference!
 
