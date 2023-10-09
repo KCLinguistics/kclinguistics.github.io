@@ -2,13 +2,12 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Online Workshop for Nerolinguistic Mechanisms of Syntax"
+date: 2023
+location: "Zoom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This workshop ran for 8 days and was dedicated to the neuobiology aspect of syntax processing under different brain pathology conditions. Additionally, this program dove into experimental websites that are free to access to conduct experiments and a special component was produced for original research ideas in the field.
 
 Heading 1
 ======

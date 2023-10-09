@@ -1,14 +1,13 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "postgraduate course"
+venue: "University of Verona, Department of Culture and Civilisations"
+date: 2020-2021
+location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Main organizer of revision bootcamps targeting international and local students who did not do Linguistics prior. The bootcamps entailed presentations on core topics such as morphosyntax, pragmatics, language learning, historical lingusitics, among others. All the materials were personally crafted and distributed to the attendees.
 
 Heading 1
 ======
