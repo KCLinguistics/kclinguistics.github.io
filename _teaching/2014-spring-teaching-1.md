@@ -3,7 +3,7 @@ title: "Teaching experience 1"
 collection: teaching
 type: "postgraduate course"
 venue: "University of Verona, Department of Culture and Civilisations"
-date: 2020-2021
+
 location: "Online"
 ---
 
