@@ -3,7 +3,7 @@ title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
 venue: "Online Workshop for Nerolinguistic Mechanisms of Syntax"
-date: 2023
+
 location: "Zoom"
 ---
 

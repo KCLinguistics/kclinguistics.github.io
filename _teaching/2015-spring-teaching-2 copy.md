@@ -3,7 +3,7 @@ title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
 venue: "Online Workshop for Cognitive Science and Statistics"
-date: 2022
+
 location: "Zoom"
 ---
 
