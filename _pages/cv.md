@@ -31,10 +31,11 @@ Work experience
   
 Skills
 ======
-* EyeLink 1000 Plus
-* ELAN
-* PRAAT
-* PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
-* JASP, Jamvoi, and R
-
+* Behavioral and Physiological: (Head-Mounted) Eye Traker, (f)MRI
+* Discourse and Phonetics: ELAN, PRAAT
+* Online Experiment: PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
+* Statistics: JASP, Jamvoi, and R
+* Data Visualization: SPM 12 (most comfortable), FSL, and AFNI 
+* Tractography and Image Analysis: Mango and TrackVis
+* Scientific Programming: GNU Octave, MATLAB (total beginner)
 
