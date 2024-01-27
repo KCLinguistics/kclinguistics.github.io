@@ -32,7 +32,7 @@ Work experience
 Skills
 ======
 * Behavioral and Physiological: (Head-Mounted) Eye Traker, (f)MRI
-* Discourse and Phonetics: ELAN, PRAAT
+* Annotation and Phonetics: ELAN, PRAAT
 * Online Experiment: PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
 * Statistics: JASP, Jamvoi, and R
 * Data Visualization: SPM 12 (most comfortable), FSL, and AFNI 
