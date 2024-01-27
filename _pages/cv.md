@@ -33,7 +33,7 @@ Skills
 ======
 * Behavioral and Physiological: (Head-Mounted) Eye Traker, (f)MRI
 * Annotation and Phonetics: ELAN, PRAAT
-* Online Experiment: PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
+* Experiment Creator: PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
 * Statistics: JASP, Jamvoi, and R
 * Data Visualization: SPM 12 (most comfortable), FSL, and AFNI 
 * Tractography and Image Analysis: Mango and TrackVis
