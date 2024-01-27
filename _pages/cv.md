@@ -36,6 +36,6 @@ Skills
 * Experiment Creator: PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
 * Statistics: JASP, Jamvoi, and R
 * Data Visualization: SPM 12 (most comfortable), FSL, and AFNI 
-* Tractography and Image Analysis: Mango and TrackVis
+* Tractography and Image Analysis: TrackVis and Mango
 * Scientific Programming: GNU Octave, MATLAB (total beginner)
 
