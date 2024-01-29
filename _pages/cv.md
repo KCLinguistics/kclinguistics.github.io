@@ -34,7 +34,7 @@ Skills
 * Behavioral and Physiological: Eye Tracker, (f)MRI
 * Annotation and Phonetics: ELAN, PRAAT
 * Experiment Creator: PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
-* Statistics: JASP, Jamvoi, and R
+* Statistics: JASP, Jamovi, and R
 * Data Visualization: SPM 12 (most comfortable), FSL, and AFNI 
 * Tractography and Image Analysis: TrackVis and Mango
 * Scientific Programming: GNU Octave, MATLAB (total beginner)
