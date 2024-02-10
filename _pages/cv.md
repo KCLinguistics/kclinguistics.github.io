@@ -35,7 +35,7 @@ Skills
 * Annotation and Phonetics: ELAN, PRAAT
 * Experiment Creator: PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
 * Statistics: JASP, Jamovi, and R
-* Data Visualization: SPM 12 (most comfortable), FSL, and AFNI 
-* Tractography and Image Analysis: TrackVis and Mango
+* fMRI Analysis: SPM 12 (most comfortable), FSL, and AFNI 
+* Tractography and Image Viewer: TrackVis and Mango
 * Scientific Programming: GNU Octave, MATLAB (total beginner)
 
