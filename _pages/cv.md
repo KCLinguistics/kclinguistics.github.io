@@ -37,5 +37,5 @@ Skills
 * Statistics: JASP, Jamovi, and R
 * fMRI Analysis: SPM 12 (most comfortable), FSL, and AFNI 
 * Tractography and Image Viewer: TrackVis and Mango
-* Scientific Programming: GNU Octave, MATLAB (total beginner)
+* Scientific Programming: GNU Octave, MATLAB 
 
