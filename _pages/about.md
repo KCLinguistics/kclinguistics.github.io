@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there! I am a gradaute student from the University of Verona, Faculty of Culture and Civilisations.
 
-I am most interested in communication dynamics in adverse situations as well as in different relaxed-ecological settings. Other than this, I look for Neurobiology of Language in the unproductive nights for the areas in Historical Linguistics, Language Anthropology, and Primate Communications - readings I do not get to do for obvious reasons of professional interference!
+I am most interested in communication dynamics in adverse situations as well as in different relaxed-ecological settings. Other than this, I pick Neurobiology of Language in the unproductive nights for the areas in Evolutionary Linguistics, Language Anthropology, and Primate Communications - readings I do not get to do for reasons of limted room in professional schedule.
 
 
 To this end, I have employed three different approaches.
