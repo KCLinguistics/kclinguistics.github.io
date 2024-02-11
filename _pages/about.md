@@ -15,7 +15,7 @@ I am most interested in communication dynamics in adverse situations as well as 
 
 To this end, I have employed three different approaches.
 
-[1] Compare the different communicative behaviors of language use in Virtual Reality vs Naturalistic-Setting in dyadic conversations of humans.
+[1] Compare the different communicative behaviors of language use in Virtual Reality vs Naturalistic-Setting in dyadic conversations between humans.
 
 [2] Identify the causal mechanism of morphosyntax in the underlying problem-solving /   communicative strategies.
 
