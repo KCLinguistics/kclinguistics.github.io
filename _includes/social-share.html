@@ -11,3 +11,30 @@
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
+
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Page</title>
+    <!-- Link default theme -->
+    <link rel="stylesheet" href="light-theme.css" id="theme">
+</head>
+<body>
+    <h1>Welcome to My GitHub Page</h1>
+    <button onclick="toggleTheme()">Toggle Theme</button>
+
+    <script>
+        function toggleTheme() {
+            const theme = document.getElementById('theme');
+            if (theme.getAttribute('href') === 'light-theme.css') {
+                theme.href = 'dark-theme.css';
+            } else {
+                theme.href = 'light-theme.css';
+            }
+        }
+    </script>
+</body>
+</html>
