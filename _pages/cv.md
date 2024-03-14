@@ -33,9 +33,9 @@ Skills
 ======
 * Behavioral and Physiological: Eye Tracker, (f)MRI
 * Annotation and Phonetics: ELAN, PRAAT
-* Experiment Creator: PsychoPy, OpenSeasame, Experiment Builder, Labvanced  
+* Experiment Creator: PsychoPy, OpenSesame, Experiment Builder, Labvanced  
 * Statistics: JASP, Jamovi, and R
 * fMRI Analysis: SPM 12 (most comfortable), FSL, and AFNI 
 * Tractography and Image Viewer: TrackVis and Mango
-* Scientific Programming: GNU Octave, MATLAB 
+* Scientific Programming: GNU Octave, MATLAB, Scientific Python 
 
