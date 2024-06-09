@@ -35,6 +35,7 @@ Skills
 * Annotation and Phonetics: ELAN, PRAAT
 * Experiment Creator: PsychoPy, OpenSesame, Experiment Builder, Labvanced  
 * Statistics: JASP, Jamovi, and R
+* EEG Analysus: Brainstorm
 * fMRI Analysis: SPM 12 (most comfortable), FSL, and AFNI 
 * Tractography and Image Viewer: TrackVis and Mango
 * Scientific Programming: GNU Octave, MATLAB, Scientific Python 
