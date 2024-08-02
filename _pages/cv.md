@@ -14,6 +14,7 @@ Education
 * B.A. in Linguistics, The Sanskrit College and University, 2020
 * M.A. in Linguistics, University of Verona, 2023
 * Visiting Fellowship at IIT Gandhinagar for Cognitive Science, 2024
+* Lab Manager and TA, Department of Applied Linguistics, PennState University, 2024 
 
 
 Work experience
