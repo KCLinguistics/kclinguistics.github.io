@@ -16,12 +16,12 @@ Education
 * Visiting Fellowship at IIT Gandhinagar for Cognitive Science, 2024
 
 
-Work experience
+Work Experience
 ======
 * Lab Manager and TA, Department of Applied Linguistics, PennState University, 2024 
 
 
-Student Access and Outreach experience
+Collegiate Student Access and Outreach 
 ======
 * February 2022 - September 2022: Student Member of Commissione Paritetica
   * University of Verona
